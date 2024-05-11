@@ -1,1 +1,1 @@
-# machine-learning-concepts
+# Machine Learning Concepts
